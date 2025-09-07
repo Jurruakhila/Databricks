@@ -1,0 +1,1 @@
+select * from workspace.practice.student limit 10;
